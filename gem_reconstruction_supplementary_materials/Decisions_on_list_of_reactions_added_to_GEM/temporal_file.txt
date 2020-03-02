@@ -1,0 +1,10 @@
+CQW49_01205 frozenset({<Reaction CyLCyHORpp at 0x7f32911025c0>, <Reaction CYTBCYTC at 0x7f3290c26ef0>}) --> added
+CQW49_01435 frozenset({<Reaction ANHMK at 0x7f329069dc18>}) --> added
+CQW49_08960 frozenset({<Reaction NTRLASE at 0x7f32901cf0f0>}) --> not added
+CQW49_11545 frozenset({<Reaction KAS16 at 0x7f3290da3d30>, <Reaction KAS17 at 0x7f3290da3358>, <Reaction KAS13 at 0x7f3290da3668>, <Reaction KAS8 at 0x7f3290e06d68>, <Reaction KAS2 at 0x7f3290da3898>, <Reaction KAS7 at 0x7f3290e06eb8>}) not added
+CQW49_12190 frozenset({<Reaction METSOXR2 at 0x7f3290e94278>}) --> added
+CQW49_13155 frozenset({<Reaction METSOXR1 at 0x7f3290e943c8>}) --> added
+CQW49_15865 frozenset() --> not added
+CQW49_17395 frozenset({<Reaction NI2uabcpp at 0x7f32901226a0>, <Reaction MG2uabcpp at 0x7f3290100fd0>}) --> add from old AM1 model
+CQW49_18215 frozenset({<Reaction NADPHQR2 at 0x7f3290ec3550>}) --> added
+CQW49_21560 frozenset({<Reaction QRr at 0x7f3290fa2e10>}) --> added

@@ -1,0 +1,105 @@
+CQW49_00515 frozenset({<Reaction ATPSipp at 0x7f32910a10f0>}) --> added
+CQW49_00550 frozenset({<Reaction ATPSipp at 0x7f32910a10f0>}) --> added
+CQW49_00740 frozenset({<Reaction UACMAMO at 0x7f3290abfef0>}) --> added
+CQW49_00915 frozenset({<Reaction BMOGDS2 at 0x7f3290c126a0>, <Reaction BMOGDS1 at 0x7f3290bfdcf8>}) --> added
+CQW49_01170 frozenset({<Reaction DPR at 0x7f328fdc6588>}) --> added
+CQW49_01220 frozenset({<Reaction PMMODCipp at 0x7f32910e5e80>, <Reaction PMMOipp at 0x7f32911026a0>}) --> added
+CQW49_01360 frozenset({<Reaction NDPK4 at 0x7f3290142208>, <Reaction NDPK6 at 0x7f3290122e48>, <Reaction NDPK7 at 0x7f3290122c88>, <Reaction NDPK1 at 0x7f3290142eb8>, <Reaction NDPK5 at 0x7f32901428d0>, <Reaction NDPK2 at 0x7f3290142518>, <Reaction NDPK8 at 0x7f3290122b38>, <Reaction NDPK10 at 0x7f3290142748>, <Reaction NDPK3 at 0x7f3290142358>, <Reaction PYK at 0x7f3290277748>, <Reaction NDPK9 at 0x7f3290122978>}) --> added
+CQW49_01705 frozenset({<Reaction LIPOS at 0x7f32908079e8>}) --> added
+CQW49_01990 frozenset({<Reaction LPLIPAL1A160pp at 0x7f3290807048>, <Reaction LPLIPAL1A140pp at 0x7f3290807c50>, <Reaction LPLIPAL1G160pp at 0x7f329084b898>, <Reaction LPLIPAL1G140pp at 0x7f329084bcc0>, <Reaction LPLIPAL1E120pp at 0x7f32907eccf8>, <Reaction LPLIPAL1E141pp at 0x7f32907ec908>, <Reaction LPLIPAL1E161pp at 0x7f32907ec518>, <Reaction LPLIPAL1A180pp at 0x7f3290807128>, <Reaction LPLIPAL1A120pp at 0x7f3290807dd8>, <Reaction FACOAE181 at 0x7f328fedce10>, <Reaction LPLIPAL1G161pp at 0x7f329084b630>, <Reaction PALMTE at 0x7f32903e9240>, <Reaction LPLIPAL1G141pp at 0x7f329084ba58>, <Reaction LPLIPAL1G181pp at 0x7f329084b240>, <Reaction LPLIPAL1E180pp at 0x7f32907ec278>, <Reaction LPLIPAL1G120pp at 0x7f329084be48>, <Reaction FACOAE180 at 0x7f328fe802b0>, <Reaction FACOAE141 at 0x7f328fe80ac8>, <Reaction FACOAE160 at 0x7f328fe806d8>, <Reaction LPLIPAL1A181pp at 0x7f32907ecef0>, <Reaction LPLIPAL1A141pp at 0x7f3290807748>, <Reaction LPLIPAL1A161pp at 0x7f3290807358>, <Reaction LPLIPAL1E160pp at 0x7f32907ec748>, <Reaction LPLIPAL1E140pp at 0x7f32907ecb70>, <Reaction LPLIPAL1G180pp at 0x7f329084b390>, <Reaction LPLIPAL1E181pp at 0x7f329084bfd0>}) --> added
+CQW49_02400 frozenset({<Reaction GTHRDHpp at 0x7f3290009160>}) --> added
+CQW49_02415 frozenset({<Reaction PPS at 0x7f32909ff320>}) --> added
+CQW49_02635 frozenset({<Reaction ORNTA at 0x7f32901aee80>, <Reaction PTRCTA at 0x7f32909e7d30>}) --> added
+CQW49_02865 frozenset({<Reaction PGSA_MCi at 0x7f32901e79b0>}) --> added
+CQW49_02960 frozenset({<Reaction SHSL1 at 0x7f3290a1fb00>, <Reaction SHSL2 at 0x7f32904295c0>, <Reaction SHSL2r at 0x7f32902aebe0>}) --> added
+CQW49_03300 frozenset({<Reaction CA2abcpp at 0x7f3290be62b0>}) --> added
+CQW49_03485 frozenset({<Reaction NADH16pp at 0x7f3291102f28>}) --> added
+CQW49_03930 frozenset({<Reaction GUAPRT at 0x7f3290d4bdd8>, <Reaction HXPRT at 0x7f3290d6a4a8>, <Reaction XPPT at 0x7f3290abf1d0>}) --> added
+CQW49_04245 frozenset({<Reaction MSAR at 0x7f32908f5dd8>}) --> added
+CQW49_04395 frozenset() --> not added
+CQW49_04465 frozenset() --> not added
+CQW49_05060 frozenset({<Reaction AMPTASECG at 0x7f328fb12080>, <Reaction AMPTASEPG at 0x7f3290c12a90>}) --> not added
+CQW49_05095 frozenset({<Reaction PPC at 0x7f32909ffd30>}) --> added
+CQW49_05280 frozenset({<Reaction BACCL at 0x7f328fc1a898>}) --> added
+CQW49_05640 frozenset({<Reaction HGNTOR at 0x7f3290d909e8>}) --> added
+CQW49_05645 frozenset({<Reaction 34HPPOR at 0x7f3290b11f60>}) --> added
+CQW49_06015 frozenset({<Reaction THIORDXi at 0x7f329105d7b8>}) --> added
+CQW49_06060 frozenset({<Reaction AMPTASEPG at 0x7f3290c12a90>}) --> not added
+CQW49_06175 frozenset({<Reaction FTHFCL at 0x7f328ff120b8>}) --> added
+CQW49_06290 frozenset({<Reaction CPPPGO2 at 0x7f32906ad978>}) --> added
+CQW49_06695 frozenset({<Reaction ORNDC at 0x7f3290f4e940>}) --> added
+CQW49_06715 frozenset({<Reaction GLUDy at 0x7f329079e080>, <Reaction GLUDxi at 0x7f3290d0bc18>}) --> added
+CQW49_06730 frozenset({<Reaction OIVD2 at 0x7f3290ef7710>, <Reaction OBDHc at 0x7f3290ef7860>, <Reaction OIVD3 at 0x7f3290ef70f0>}) --> added
+CQW49_06735 frozenset({<Reaction OIVD2 at 0x7f3290ef7710>, <Reaction OBDHc at 0x7f3290ef7860>, <Reaction OIVD3 at 0x7f3290ef70f0>}) --> added
+CQW49_06750 frozenset({<Reaction HPYRRy at 0x7f32910e52e8>, <Reaction 2DGULRx at 0x7f3290540d68>, <Reaction 2DGULRGy at 0x7f3290503f60>, <Reaction DKGLCNR2x at 0x7f32906e4b70>, <Reaction 2DGULRy at 0x7f3290540ba8>, <Reaction HPYRRx at 0x7f3290d6a9b0>, <Reaction 2DGULRGx at 0x7f3290540fd0>, <Reaction DKGLCNR2y at 0x7f32906e49e8>}) --> added
+CQW49_06900 frozenset({<Reaction UDPGDC at 0x7f3290abf710>, <Reaction TDPGDH at 0x7f32902e4da0>, <Reaction ULA4NFT at 0x7f3290abf390>}) --> added
+CQW49_07145 frozenset({<Reaction HSTPT at 0x7f32907be7b8>, <Reaction HSTPTr at 0x7f3290485048>}) --> added
+CQW49_07785 frozenset({<Reaction CYTOM at 0x7f3290c267b8>}) --> not added
+CQW49_08660 frozenset({<Reaction SERAT at 0x7f32904297f0>}) --> added
+CQW49_08665 frozenset({<Reaction HCITS at 0x7f3290043630>}) --> added
+CQW49_08720 frozenset({<Reaction NIT1b at 0x7f3290f1cd68>, <Reaction NIT_mc at 0x7f3290122470>}) --> added
+CQW49_08725 frozenset({<Reaction NIT1b at 0x7f3290f1cd68>, <Reaction NIT_mc at 0x7f3290122470>}) --> added
+CQW49_09160 frozenset({<Reaction CYSDS at 0x7f32906ad390>, <Reaction TRPAS2 at 0x7f3290a6feb8>, <Reaction SERD_L at 0x7f32910006d8>}) --> added
+CQW49_09295 frozenset() --> not added
+CQW49_09405 frozenset({<Reaction NADH16pp at 0x7f3291102f28>}) --> not added
+CQW49_09415 frozenset({<Reaction NTPTP1 at 0x7f329095a6d8>, <Reaction NTPTP2 at 0x7f329095a4e0>}) --> added
+CQW49_09715 frozenset({<Reaction HOPNTAL at 0x7f3290d906d8>}) --> added
+CQW49_09940 frozenset({<Reaction PGI at 0x7f32901e7c18>, <Reaction PGIA at 0x7f32901e7f60>, <Reaction G6PI3 at 0x7f3290ca3390>, <Reaction G6PI at 0x7f3290ca3198>, <Reaction G6PI_1 at 0x7f328ff3ff98>}) --> added
+CQW49_10130 frozenset({<Reaction CCGS at 0x7f32906ca898>}) --> added
+CQW49_10255 frozenset({<Reaction PMMODCipp at 0x7f32910e5e80>, <Reaction PMMOipp at 0x7f32911026a0>, <Reaction pMMO at 0x7f32903bfac8>}) --> added
+CQW49_10875 frozenset({<Reaction HCO3E at 0x7f32907d7940>}) --> added
+CQW49_10980 frozenset({<Reaction DAAD at 0x7f3290709e48>})
+CQW49_11405 frozenset({<Reaction PRFGS_1 at 0x7f3290f6ab70>})
+CQW49_12010 frozenset({<Reaction ASPTA6 at 0x7f328fbbf0b8>, <Reaction ALAD_L at 0x7f328faace48>, <Reaction AGTi at 0x7f328fa2a780>, <Reaction ALAD_syn at 0x7f32903a20b8>, <Reaction ALATA_L at 0x7f328faac5f8>}) --> added
+CQW49_12035 frozenset({<Reaction NAPRT at 0x7f3290142128>}) --> added
+CQW49_12245 frozenset({<Reaction GLYCK2 at 0x7f329114afd0>}) --> added
+CQW49_12295 frozenset({<Reaction OPTCCL at 0x7f3290f4eda0>, <Reaction HHDDI at 0x7f3290d90278>}) --> not added
+CQW49_12520 frozenset({<Reaction DMT at 0x7f328fd8a240>}) --> not added
+CQW49_12845 frozenset({<Reaction H2CO3D at 0x7f3290d4b4a8>}) --> added
+CQW49_12940 frozenset({<Reaction HMGL at 0x7f3290d90240>}) --> added
+CQW49_12970 frozenset({<Reaction TRE6PP at 0x7f3290a1f940>}) --> added
+CQW49_13000 frozenset({<Reaction CYTAA3ipp at 0x7f32910a1048>}) --> added
+CQW49_13005 frozenset({<Reaction CYTAA3ipp at 0x7f32910a1048>}) --> added
+CQW49_13305 frozenset() --> not added
+CQW49_13350 frozenset({<Reaction GCCa at 0x7f328ff1fe48>}) --> added
+CQW49_13355 frozenset({<Reaction GCCa at 0x7f328ff1fe48>}) --> added
+CQW49_13470 frozenset({<Reaction PRMICI at 0x7f32902926a0>}) --> added
+CQW49_14985 frozenset({<Reaction N2OR at 0x7f3290ec3be0>}) --> added
+CQW49_15360 frozenset({<Reaction HEX7 at 0x7f32907d7198>}) --> added
+CQW49_15505 frozenset({<Reaction LIPOCT at 0x7f32907a8198>}) --> added
+CQW49_16115 frozenset({<Reaction PFK_ppi at 0x7f329020d780>, <Reaction PFK_2 at 0x7f3290965f98>, <Reaction PFK_3 at 0x7f3290965cc0>, <Reaction PFK_3_ppi at 0x7f329020d8d0>}) --> added
+CQW49_16125 frozenset() --> added
+CQW49_16180 frozenset({<Reaction ORPT at 0x7f32901ae6a0>}) --> added
+CQW49_16905 frozenset({<Reaction PGM_1 at 0x7f3290f29b70>}) --> added
+CQW49_17075 frozenset({<Reaction L_LACD3 at 0x7f3290de2898>, <Reaction L_LACD2 at 0x7f3290de2a58>}) --> added
+CQW49_17110 frozenset({<Reaction SQLC2 at 0x7f3290306ba8>, <Reaction SQLC at 0x7f32903067b8>}) --> added
+CQW49_17220 frozenset({<Reaction ACM6PH at 0x7f32906192e8>}) --> added
+CQW49_17240 frozenset({<Reaction CHOLD at 0x7f32906ca6d8>}) --> added
+CQW49_17595 frozenset({<Reaction FBP at 0x7f3290cc2748>}) --> not added
+CQW49_17895 frozenset({<Reaction ORNTA_1 at 0x7f3290f4e7f0>}) --> added
+CQW49_17905 frozenset({<Reaction ALDD2x at 0x7f3290ba7390>, <Reaction AASAD3 at 0x7f3290b11278>}) --> not added
+CQW49_18435 frozenset({<Reaction TMDS3 at 0x7f329105d2b0>}) --> added
+CQW49_18575 frozenset() --> added
+CQW49_18780 frozenset({<Reaction NTPP10 at 0x7f3290181320>, <Reaction NTPP1 at 0x7f32901817b8>, <Reaction NTPP9 at 0x7f32901de940>, <Reaction NTPP11 at 0x7f3290181160>, <Reaction NTPP8 at 0x7f32901dea90>, <Reaction NTPP2 at 0x7f32901810b8>, <Reaction DUTPDP at 0x7f328fdc65f8>}) --> added
+
+CQW49_19460 frozenset({<Reaction AMPTASECG at 0x7f328fb12080>, <Reaction AMPTASEPG at 0x7f3290c12a90>}) --> added
+CQW49_20020 frozenset({<Reaction OXADC at 0x7f3290f4e630>}) --> added
+CQW49_20165 frozenset({<Reaction MOCOS at 0x7f329091b518>, <Reaction WCOS at 0x7f3290abf550>, <Reaction BMOCOS at 0x7f32906cadd8>, <Reaction BWCOS at 0x7f32906cab70>}) --> added
+CQW49_20215 frozenset() --> added
+CQW49_20655 frozenset({<Reaction 2OH3K5MPPISO at 0x7f328f93c6d8>}) --> not added
+CQW49_20795 frozenset({<Reaction ACS2 at 0x7f3290b7f4e0>}) --> added
+CQW49_21030 frozenset({<Reaction METGL at 0x7f3290e94978>}) --> added
+CQW49_21250 frozenset({<Reaction ECOAH2 at 0x7f3290c7ac18>, <Reaction DHACOAH at 0x7f3290709128>, <Reaction ECOAH3 at 0x7f3290c7af28>, <Reaction ECOAH5 at 0x7f3290c7a668>, <Reaction ECOAH7 at 0x7f3290c7a198>, <Reaction ECOAH4 at 0x7f3290c7a7f0>, <Reaction ECOAH6 at 0x7f3290c7a390>}) --> not added
+CQW49_21325 frozenset({<Reaction UREA at 0x7f329103bd68>}) --> added
+CQW49_21330 frozenset({<Reaction UREA at 0x7f329103bd68>}) --> added
+CQW49_21335 frozenset({<Reaction UREA at 0x7f329103bd68>}) --> added
+CQW49_21545 frozenset({<Reaction ACPS1 at 0x7f328f9c5198>}) --> added
+CQW49_21585 frozenset({<Reaction NICRNS at 0x7f3290ec30b8>, <Reaction NMNHYD at 0x7f3290f1c860>}) --> not added
+CQW49_21985 frozenset({<Reaction SCYSDS at 0x7f3290a4f710>, <Reaction S2FE2SR at 0x7f3290a4fc50>}) --> added
+CQW49_22035 frozenset({<Reaction XAND at 0x7f329103b710>, <Reaction HXAND at 0x7f3290d6a240>, <Reaction MOCDS at 0x7f329091b978>}) --> added
+CQW49_22875 frozenset({<Reaction SUCDH_q8_pp at 0x7f32911024a8>}) --> added
+CQW49_22910 frozenset({<Reaction MCITD at 0x7f329091bba8>}) --> added
+CQW49_22935 frozenset() --> added
+CQW49_23115 frozenset() --> added
+CQW49_23740 frozenset({<Reaction KAS16 at 0x7f3290da3d30>, <Reaction KAS17 at 0x7f3290da3358>, <Reaction KAS13 at 0x7f3290da3668>, <Reaction KAS8 at 0x7f3290e06d68>, <Reaction KAS2 at 0x7f3290da3898>, <Reaction KAS7 at 0x7f3290e06eb8>}) --> not added
+CQW49_23910 frozenset({<Reaction NMNS at 0x7f3290f1c278>})
