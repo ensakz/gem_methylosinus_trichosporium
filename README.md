@@ -4,7 +4,7 @@
 
 This repository contains the genome-scale metabolic model for *Methylosinus trichosporium* OB3b. The model contains 1043 reactions, 1020 metabolites, 683 genes (as of 18/02/2020). The model file is available in json and sbml formats in model_files folder above.
 
-## MemoteReportApp.html
+## MemoteReportApp.html (File S3)
 
 - Memote report with the extended model statistics. The report was generated with the help of memote web tool https://memote.io/
 
@@ -40,7 +40,7 @@ This repository contains the genome-scale metabolic model for *Methylosinus tric
 
 `5. reverse_TCA_AKGDH_active_OOR3r_active.csv` --> flux distributions when both irreversible 2-oxoglutarate dehydrogenase reaction (model reaction ID: AKGDH) and 2-oxoacid ferredoxin synthase reaction (model reaction ID: OOR3r) are allowed to carry flux. 
 
-`6. reduced_costs_redox_arm_falda_knockout.csv` --> reduced costs analysis when spontaneous formaldehyde condensation reaction (model ID: FALDA) is knocked out
+**File S2** --> `6. reduced_costs_redox_arm_falda_knockout.csv` --> reduced costs analysis when spontaneous formaldehyde condensation reaction (model ID: FALDA) is knocked out
 
 ## Supplementary scripts
 
@@ -58,7 +58,7 @@ This repository contains the genome-scale metabolic model for *Methylosinus tric
 
 `7. Small fixes.ipynb` --> Applies cosmetic changes to the model such as the removal of genes, reactions and metabolites unused in the model. Fixes model compartments too. 
 
-`8. Apply omics information to the model.ipynb` --> Forces 1/3 of acetyl-CoA to be produced from 2 separate sources. Checks the plausability of reverse TCA in the model. Checks CO2 supplementation effect on the model.
+**File S1** --> `8. Apply omics information to the model.ipynb` --> Forces 1/3 of acetyl-CoA to be produced from 2 separate sources. Checks the plausability of reverse TCA in the model. Checks CO2 supplementation effect on the model.
 
 ## Citation
 
