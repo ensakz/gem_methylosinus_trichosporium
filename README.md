@@ -62,7 +62,7 @@ This repository contains the genome-scale metabolic model for *Methylosinus tric
 
 ## Citation
 
-Sanzhar Naizabekov, Eun Yeol Lee **(2020)** Genome-scale metabolic model reconstruction and in silico investigations of methane metabolism in Methylosinus trichosporium OB3b. *Microorganisms* 2020, 8, 437; doi:10.3390/microorganisms8030437 
+Sanzhar Naizabekov, Eun Yeol Lee **(2020)**. Genome-scale metabolic model reconstruction and in silico investigations of methane metabolism in Methylosinus trichosporium OB3b. *Microorganisms* 2020, 8, 437; doi:10.3390/microorganisms8030437 
 
 ---
 
